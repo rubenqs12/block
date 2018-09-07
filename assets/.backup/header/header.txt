@@ -1,0 +1,9 @@
+# Energized - ad.porn.malware blocking.
+# A merged collection of hosts from reputable sources.
+# https://nayemador.com/energized
+# Project Git: https://github.com/EnergizedProtection/block
+
+# Version: 18.08.236
+# Last updated: Fri, 24 Aug 18 14:11:48
+#
+
